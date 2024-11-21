@@ -129,4 +129,7 @@ void text01()
 int main()
 {
       return 0;//return
+      cout<<"a="<<1<<endl;
+      cout<<"b="<<1<<endl;
+      cout<<"c="<<1<<endl;
 }
